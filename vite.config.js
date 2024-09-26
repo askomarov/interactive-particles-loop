@@ -1,6 +1,7 @@
 import glsl from 'vite-plugin-glsl';
 
 export default {
+  base: './',
   root: './',
   server: {
     port: 3000,
